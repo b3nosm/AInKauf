@@ -23,23 +23,7 @@ The AI-powered project would save time, effort, and money in everyday life. By a
 
 The system is accessed through a digital app on consumers' smartphones. The app is directly connected to the refrigerator's AI recognition system and can access all available offers from local supermarkets. It is also fully customizable, allowing users to enter their preferred meals and receive personalized suggestions for new recipes or optimized dishes that match their eating habits and preferences.
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
 
 
 ## Data sources and AI methods
