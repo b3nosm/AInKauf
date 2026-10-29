@@ -27,22 +27,19 @@ The system is accessed through a digital app on consumers' smartphones. The app 
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+The data comes from cameras inside the refrigerator. The AI uses images to identify the food and track the contents. The system collects new data automatically and stores it in an app. It can also use information provided by the user, such as food preferences.
+
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The project cannot always recognize every food item correctly, especially when products are hidden or packaged. It also cannot guarantee that all supermarket prices and offers are up to date. Privacy is important because the system collects information about people's eating habits. Therefore, user data must be stored securely and used responsibly. In addition, the system should avoid unnecessary food purchases and reduce food waste.
+
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The project could grow by connecting the app to more supermarkets and adding personalized meal plans and automatic online shopping. To develop the project further, we would need skills in AI, software development, and business management. We would also need support from engineers, supermarkets, and potential investors. Finally, we would need user feedback to improve the system and make it more useful.
+
 
 
 ## Acknowledgments
