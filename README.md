@@ -3,13 +3,14 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# AInKauf
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+A fully digitalized shopping process. On the one hand, the smart refrigerator can automatically detect which products need to be restocked. On the other hand, this information is integrated with offers from local supermarkets, ensuring that the best deals are purchased at the right time.
+
 
 
 ## Background
