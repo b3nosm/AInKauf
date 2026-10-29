@@ -15,24 +15,13 @@ A fully digitalized shopping process. On the one hand, the smart refrigerator ca
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+The AI-powered project would save time, effort, and money in everyday life. By automatically identifying products that need to be restocked and generating a shopping list, users would no longer need to plan their grocery shopping manually. In addition, the system would identify the best available offers from local supermarkets, helping consumers reduce their grocery expenses. Due to its practical application in everyday life, the solution has significant potential for widespread adoption across society, potentially becoming part of many consumers' daily routines.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+The system is accessed through a digital app on consumers' smartphones. The app is directly connected to the refrigerator's AI recognition system and can access all available offers from local supermarkets. It is also fully customizable, allowing users to enter their preferred meals and receive personalized suggestions for new recipes or optimized dishes that match their eating habits and preferences.
 
 This is how you create code examples:
 ```
